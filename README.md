@@ -8,6 +8,7 @@ The tool is built using Streamlit and machine learning models (Linear Regression
 
 It helps healthcare administrators optimize appointment scheduling and staffing strategies to reduce patient waiting time and improve operational efficiency.
 
+
 **📊 FEATURES**
 
 
@@ -22,6 +23,7 @@ It helps healthcare administrators optimize appointment scheduling and staffing 
 🧠 Visual feature importance from trained models
 
 🌍 Ready for clinics across diverse urban/rural settings
+
 
 **🧠 TECH STACK**
 
