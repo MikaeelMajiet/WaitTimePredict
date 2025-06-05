@@ -1,4 +1,4 @@
-**🚀 OVERVIEW**
+**OVERVIEW**
 
 
 WaitTimePredict is an interactive, AI-driven dashboard that predicts patient wait times at clinics based on dynamic inputs like staffing levels, walk-ins, and appointment data.
