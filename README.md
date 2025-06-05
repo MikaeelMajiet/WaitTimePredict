@@ -39,7 +39,7 @@ Packaging: Joblib (for serialized models)
 
 
  **HOW TO RUN**
-
+```bash
 git clone https://github.com/MikaeelMajiet/WaitTimePredict.git
 cd WaitTimePredict
 
