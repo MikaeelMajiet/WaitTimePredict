@@ -14,4 +14,3 @@ cd clinic-wait-time-predictor
 pip install -r requirements.txt
 streamlit run app.py
 
-![image](https://github.com/user-attachments/assets/518a4d59-4fb8-4708-b848-b5427139721e)
