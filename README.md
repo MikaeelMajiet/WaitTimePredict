@@ -1,4 +1,6 @@
-**🚀 Overview**
+**🚀 OVERVIEW**
+
+
 WaitTimePredict is an interactive, AI-driven dashboard that predicts patient wait times at clinics based on dynamic inputs like staffing levels, walk-ins, and appointment data.
 
 The tool is built using Streamlit and machine learning models (Linear Regression and Random Forest), trained on real-world clinic data.
@@ -6,7 +8,9 @@ The tool is built using Streamlit and machine learning models (Linear Regression
 
 It helps healthcare administrators optimize appointment scheduling and staffing strategies to reduce patient waiting time and improve operational efficiency.
 
-**📊 Features**
+**📊 FEATURES**
+
+
 📈 Real-time wait time predictions using ML models
 
 🔁 Dynamic inputs via sliders and toggles (e.g., walk-ins, staff count, equipment downtime)
@@ -19,7 +23,9 @@ It helps healthcare administrators optimize appointment scheduling and staffing 
 
 🌍 Ready for clinics across diverse urban/rural settings
 
-**🧠 Tech Stack**
+**🧠 TECH STACK**
+
+
 Frontend: Streamlit
 
 Backend/ML: scikit-learn, Pandas, NumPy
